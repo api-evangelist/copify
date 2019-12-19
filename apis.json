@@ -1,0 +1,73 @@
+{
+    "name": "Copify",
+    "description": "Quick, quality content from approved UK copywriters. Order online in seconds!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1320-copify.jpg",
+    "tags": [
+        "acronym",
+        "api provider",
+        "content",
+        "copywriting",
+        "have api",
+        "marketplaces",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/copify\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Copify",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1320-copify.jpg",
+            "humanURL": "http:\/\/uk.copify.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/copify-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/uk.copify.com\/how-it-works\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.copify.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.copify.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/copify"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/copify"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/uk.copify.com\/api"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/copify"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/copify"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/uk.copify.com"
+        }
+    ]
+}
